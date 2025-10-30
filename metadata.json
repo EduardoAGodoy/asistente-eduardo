@@ -1,0 +1,7 @@
+{
+  "name": "Asistente Personal IA 'Claudia'",
+  "description": "Un asistente personal de IA con voz en tiempo real, integrado con los servicios de Google para gestionar correos, calendario, archivos y más, mientras ofrece asistencia contextual y organizada para proyectos personales y de trabajo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
